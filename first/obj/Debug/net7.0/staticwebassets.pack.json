@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/test/Job Interviews/Projects/Amen/BuildWebsite/first/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.first.props",
+      "PackagePath": "build\\first.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.first.props",
+      "PackagePath": "buildMultiTargeting\\first.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.first.props",
+      "PackagePath": "buildTransitive\\first.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.first.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
